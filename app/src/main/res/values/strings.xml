@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_exa">exa</string>
+    <string name="title_activity_signup1">Signup1</string>
+    <string name="title_activity_signup2">Signup2</string>
+    <string name="title_activity_signup3">Signup3</string>
+    <string name="title_activity_menu">Menu</string>
+</resources>
